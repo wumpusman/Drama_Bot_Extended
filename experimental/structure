@@ -1,0 +1,12 @@
+For current idea
+
+    Extend Pipe to include Gensim
+    So pass wordlist or sentence list -> to embedding -> to rest of embedding so I cna be lazy
+
+
+    Keras TimeSeries Preprocess
+
+    Data to format
+
+    Format to Structure Inverse:
+
